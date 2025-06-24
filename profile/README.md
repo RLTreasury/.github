@@ -91,7 +91,7 @@ Key motivations included:
 
 - **XLS-65d Specification**: [SingleAssetVault Discussion](https://github.com/XRPLF/XRPL-Standards/discussions/192)
 - **XLS-30d MPToken**: [MPToken Amendment Discussion](https://github.com/XRPLF/XRPL-Standards/discussions/190)
-- **Rippled Implementation**: [SingleAssetVault PR]([https://github.com/XRPLF/rippled/pull/5444])
+- **Rippled Implementation**: [SingleAssetVault PR](https://github.com/XRPLF/rippled/pull/5444)
 - **XLS-66 Lending Protocol**: [XRPL Standards Repository](https://github.com/XRPLF/XRPL-Standards)
 - **XRPL Dev Portal**: [Official Documentation](https://xrpl.org/)
 - **Hackathon Details**: [Ripple x EasyA Singapore](https://www.easya.io/)
