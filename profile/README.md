@@ -100,15 +100,15 @@ Key motivations included:
 
 We extend our sincere gratitude to the following individuals and organizations who made this project possible:
 
-[Bronek](https://github.com/Bronek) - For invaluable technical guidance and Docker setup assistance
-David Schwartz - For insightful discussions at Apex and strategic direction
-[Vito](https://github.com/Tapanito) - XLS-65d author, for sharing deep technical insights and amendment vision
-[Maxime Dienger](https://github.com/maximedgr) - For precious help with our presentation and connecting us with key stakeholders needed for the project
-[Thomas Hussenet](https://github.com/LeJamon) - For his valuable assistance and support
-Marco - For exceptional hackathon support and guidance throughout the event
-[XRPL Commons](https://github.com/XRPL-Commons)  - For providing the opportunity and initial testing mandate
-Ripple & EasyA - For hosting an incredible hackathon experience in Singapore
-The XRPL Community - For continuous support and collaboration
+- [Bronek](https://github.com/Bronek) - For invaluable technical guidance and Docker setup assistance
+- David Schwartz - For insightful discussions at Apex and strategic direction
+- [Vito](https://github.com/Tapanito) - XLS-65d author, for sharing deep technical insights and amendment vision
+- [Maxime Dienger](https://github.com/maximedgr) - For precious help with our presentation and connecting us with key stakeholders needed for the project
+- [Thomas Hussenet](https://github.com/LeJamon) - For his valuable assistance and support
+- Marco - For exceptional hackathon support and guidance throughout the event
+- [XRPL Commons](https://github.com/XRPL-Commons)  - For providing the opportunity and initial testing mandate
+- Ripple & EasyA - For hosting an incredible hackathon experience in Singapore
+- The XRPL Community - For continuous support and collaboration
 
 ## 📄 License
 
