@@ -1,6 +1,6 @@
 # XRPL SingleAssetVault Explorer
 
-[![Hackathon Winner](https://img.shields.io/badge/Ripple%20x%20EasyA%20Hackathon-1st%20Place%20Exploration%20Track-gold)](https://github.com/your-repo)
+[![Hackathon Winner](https://img.shields.io/badge/Ripple%20x%20EasyA%20Hackathon-1st%20Place%20Exploration%20Track-gold)](https://github.com/RLTreasury)
 [![XLS-65d](https://img.shields.io/badge/XLS--65d-SingleAssetVault-blue)](https://github.com/XRPLF/XRPL-Standards/discussions/192)
 [![Docker](https://img.shields.io/badge/Docker-Containerized-blue)](https://www.docker.com/)
 
